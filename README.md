@@ -16,5 +16,5 @@
 - Transform the data ingested (feature engineering).
 
 ## 3. Machine Learning Modeling Pipelines in Production (Progress: 1/5)
-- Get used to Keras tuner, AutoML; gloud bucket and some APIs.
+- Understand and try using Keras tuner, AutoML; get used to gcloud bucket and some APIs.
 - ...
